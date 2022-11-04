@@ -5,7 +5,7 @@ For this Application was used the following technologies:
 
 * [React Framework](https://reactjs.org)
 
-For the Frontend was used the following tecnologies:
+For the Frontend was used the following technologies:
 * [HTML5](https://www.w3schools.com/html/)
 * [CSS Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [JavaScript](https://devdocs.io/javascript/)
